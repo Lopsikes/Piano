@@ -1,0 +1,15 @@
+C:\Users\Lopsik\Desktop\Чтото на чтото для чтото\Пианино\Пианино\bin\Debug\net6.0\Пианино.exe
+C:\Users\Lopsik\Desktop\Чтото на чтото для чтото\Пианино\Пианино\bin\Debug\net6.0\Пианино.deps.json
+C:\Users\Lopsik\Desktop\Чтото на чтото для чтото\Пианино\Пианино\bin\Debug\net6.0\Пианино.runtimeconfig.json
+C:\Users\Lopsik\Desktop\Чтото на чтото для чтото\Пианино\Пианино\bin\Debug\net6.0\Пианино.dll
+C:\Users\Lopsik\Desktop\Чтото на чтото для чтото\Пианино\Пианино\bin\Debug\net6.0\Пианино.pdb
+C:\Users\Lopsik\Desktop\Чтото на чтото для чтото\Пианино\Пианино\obj\Debug\net6.0\Пианино.csproj.AssemblyReference.cache
+C:\Users\Lopsik\Desktop\Чтото на чтото для чтото\Пианино\Пианино\obj\Debug\net6.0\Пианино.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lopsik\Desktop\Чтото на чтото для чтото\Пианино\Пианино\obj\Debug\net6.0\Пианино.AssemblyInfoInputs.cache
+C:\Users\Lopsik\Desktop\Чтото на чтото для чтото\Пианино\Пианино\obj\Debug\net6.0\Пианино.AssemblyInfo.cs
+C:\Users\Lopsik\Desktop\Чтото на чтото для чтото\Пианино\Пианино\obj\Debug\net6.0\Пианино.csproj.CoreCompileInputs.cache
+C:\Users\Lopsik\Desktop\Чтото на чтото для чтото\Пианино\Пианино\obj\Debug\net6.0\Пианино.dll
+C:\Users\Lopsik\Desktop\Чтото на чтото для чтото\Пианино\Пианино\obj\Debug\net6.0\refint\Пианино.dll
+C:\Users\Lopsik\Desktop\Чтото на чтото для чтото\Пианино\Пианино\obj\Debug\net6.0\Пианино.pdb
+C:\Users\Lopsik\Desktop\Чтото на чтото для чтото\Пианино\Пианино\obj\Debug\net6.0\Пианино.genruntimeconfig.cache
+C:\Users\Lopsik\Desktop\Чтото на чтото для чтото\Пианино\Пианино\obj\Debug\net6.0\ref\Пианино.dll
